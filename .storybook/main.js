@@ -8,6 +8,7 @@ const config = {
     "@storybook/addon-essentials",
     "@storybook/addon-interactions",
     '@storybook/addon-a11y',
+    'storybook-design-token'
   ],
   framework: {
     name: "@storybook/vue3-vite",
